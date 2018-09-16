@@ -1,0 +1,29 @@
+_repo: Liao-zhai-zhi-yi_51828
+_version: 0.0.1
+alternative_title: Liao zhai zhi yi
+creator:
+  author:
+    agent_name: Pu, Songling
+    aliases:
+    - 蒲松齡
+    - Xi, Zhousheng
+    birthdate: 1640
+    deathdate: 1715
+    gutenberg_agent_id: '31835'
+    url: http://www.gutenberg.org/2009/agents/31835
+description: ''
+gutenberg_issued: '2016-04-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '51828'
+language: zh
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PL'
+- !lcsh 'Short stories, Chinese'
+- !lcsh 'China -- Social life and customs -- Fiction'
+- GITenberg
+title: 聊齋志異
+url: http://www.gutenberg.org/ebooks/51828
